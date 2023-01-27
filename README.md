@@ -1,5 +1,5 @@
 #### Hi there  I’m Arif Jawad 😊 
-##### Front-end developer 💻
+# I’m a Front-end developer 💻
 
 I am a front-end developer. Curious about developing a complex solution and keen on creating multifunctional and
 responsive web pages. I can quickly adapt myself to group work. Always willing and ambitious to acquire and learn
