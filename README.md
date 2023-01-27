@@ -1,4 +1,4 @@
-                                                             ## Front-end developer 💻
+## Front-end developer 💻
 
 ### Hi there  I’m Arif Jawad 😊 
 
