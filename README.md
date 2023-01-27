@@ -1,5 +1,5 @@
-### Hi there 👋, I’m Arif Jawad
-#### Front-end developer 
+#### Hi there  I’m Arif Jawad 😊 
+##### Front-end developer 💻
 
 I am a front-end developer. Curious about developing a complex solution and keen on creating multifunctional and
 responsive web pages. I can quickly adapt myself to group work. Always willing and ambitious to acquire and learn
@@ -7,7 +7,7 @@ new technologies.
 
 Skills: HTML, CSS, Javascript, Bootstrap, Tailwind CSS, Mamba UI, Daisy UI, React, React Bootstrap, React router dom, Firebase.
 
-- 🔭 I’m currently working on Front-end developer 
+- 💻 I’m currently working on Front-end developer 
 - 🌱 I’m currently learning Javascript and React Js 
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about Web development  
