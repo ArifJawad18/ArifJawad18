@@ -9,7 +9,7 @@
  
 <h4>Skills: HTML, CSS, Javascript, Bootstrap, Tailwind CSS, Mamba UI, Daisy UI, React, React Bootstrap, React router dom, Express Js, Node js, JWT, MongoDB, Firebase.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifjawad18&label=Profile%20views&color=0e75b6&style=flat" alt="arifjawad18" /> </p>
+
 
 - 🔭 I’m currently working on **Front-end developer**
 
