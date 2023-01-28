@@ -1,29 +1,46 @@
-## Front-end developer 💻
+<h1 align="center">Front-end developer 💻</h3> 
 
-### Hi there,  I’m Arif Jawad 😊 
-
-I am a front-end developer. Curious about developing a complex solution and keen on creating multifunctional and
-responsive web pages. I can quickly adapt myself to group work. Always willing and ambitious to acquire and learn
-new technologies.
-
-Skills: HTML, CSS, Javascript, Bootstrap, Tailwind CSS, Mamba UI, Daisy UI, React, React Bootstrap, React router dom, Express Js, Node js, JWT, MongoDB, Firebase.
-
-- 💻 I’m currently working on Front-end developer 
-- 🌱 I’m currently learning Javascript and React Js 
-- 👯 I’m looking to collaborate on GitHub  
-- 💬 Ask me about Web development  
-- ⚡ Fun fact: Sports  
+<h2 align="center"> Hi there 👋,  I’m Arif Jawad 😊</h1>
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArifJawad18)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-arif-jawad-656aa0182//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100003663528093)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/arif.jawad/?fbclid=IwAR3GDu5s6hf2HiVuNDi7RF361KUsLILuu2WL34A5LGyh6Xa5u1jXJbdMhO4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ArifJawad5?fbclid=IwAR18JTOwBjQ_H0jEHrLHZelo2srqJlitz9cRRJR3lrKMSQ3fQQTItOoe1eo)  
+
+<h3 align="center">I am a front-end developer. Curious about developing a complex solution and keen on creating multifunctional and responsive web pages. I can quickly adapt myself to group work. Always willing and ambitious to acquire and learn new technologies.</h3>
+ 
+<h4>Skills: HTML, CSS, Javascript, Bootstrap, Tailwind CSS, Mamba UI, Daisy UI, React, React Bootstrap, React router dom, Express Js, Node js, JWT, MongoDB, Firebase.</h4>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifjawad18&label=Profile%20views&color=0e75b6&style=flat" alt="arifjawad18" /> </p>
+
+- 🔭 I’m currently working on **Front-end developer**
+
+- 🌱 I’m currently learning **JavaScript and React Js**
+
+- 👯 I’m looking to collaborate on **GitHub**
+
+- 💬 Ask me about **Web development**
+
+- 📫 How to reach me **arif.jawad18@gmail.com**
+
+- ⚡ Fun fact **Funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/arifjawad5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arifjawad5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-arif-jawad-656aa0182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-arif-jawad-656aa0182/" height="30" width="40" /></a>
+<a href="https://fb.com/arif jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arif jawad" height="30" width="40" /></a>
+<a href="https://instagram.com/arif.jawad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arif.jawad" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArifJawad18)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifJawad18)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifJawad18&show_icons=true&count_private=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifjawad18&show_icons=true&locale=en&layout=compact" alt="arifjawad18" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ArifJawad18)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifjawad18&show_icons=true&locale=en" alt="arifjawad18" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifjawad18&" alt="arifjawad18" /></p>
 
 ![Profile views](https://gpvc.arturio.dev/ArifJawad18)  
