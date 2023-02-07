@@ -22,7 +22,7 @@
 - 📫 How to reach me **arif.jawad18@gmail.com**
 
 - ⚡ Fun fact **Funny**
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+
 
 
 <h3 align="left">Languages and Tools:</h3>
