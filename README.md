@@ -56,7 +56,12 @@
 
 <br/>
 
+<br/>  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=ArifJawad18&&style=flat-square)  
+  
+
+<br/>
 
   
 
