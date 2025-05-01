@@ -41,7 +41,20 @@
 </div>  
 
 <br/>  
+  
 
+## Github Stats  
+<table><tr><td valign="top" width="10%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ArifJawad18&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="10%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifJawad18&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>
 
 
 
