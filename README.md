@@ -5,7 +5,7 @@
 
 
 
-<h3 align="centre">I am a front-end developer, Studying Computer Science and Engineering. Curious about developing a complex solution and keen on creating multifunctional and responsive web pages. I can quickly adapt to group work. Always willing and ambitious to acquire and learn new technologies.</h3>
+<h3 align="centre">I am a front-end developer, Study in Computer Science and Engineering. Curious about developing a complex solution and keen on creating multifunctional and responsive web pages. I can quickly adapt to group work. Always willing and ambitious to acquire and learn new technologies.</h3>
  
 <h4>Skills: HTML, CSS, Javascript, Bootstrap, Tailwind CSS, Daisy UI, React, React Bootstrap, React Router Dom, Express JS, Node JS, JWT, Mongodb, Firebase.</h4>
 
