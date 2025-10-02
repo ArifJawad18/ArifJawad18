@@ -1,9 +1,8 @@
 <h1 align="center">Front-end Developer 💻</h1>
-
 <h2 align="center">Hi there 👋, I’m Arif Jawad 😊</h2>
 
 <h3 align="center">
-I am a front-end developer, studying Computer Science and Engineering. I’m curious about developing complex solutions and creating multifunctional, responsive web pages. I adapt quickly to teamwork and am always eager to learn new technologies.
+I am a front-end developer, studying Computer Science and Engineering. I enjoy building responsive, multifunctional web pages and solving complex problems. Quick to adapt in teamwork, and always eager to learn new technologies.
 </h3>
 
 ---
@@ -41,35 +40,29 @@ I am a front-end developer, studying Computer Science and Engineering. I’m cur
 
 ---
 
-### 🔗 Languages and Tools
+### 🔗 Languages & Tools
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" style="margin: 5px"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" style="margin: 5px"/></a>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" style="margin: 5px"/></a>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" style="margin: 5px"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" style="margin: 5px"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" style="margin: 5px"/></a>
-<a href="https://sass-lang.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" style="margin: 5px"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" style="margin: 5px"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="30" style="margin: 5px"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" style="margin: 5px"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin: 5px"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin: 5px"/></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin: 5px"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 5px"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin: 5px"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="margin: 5px"/></a>
 </div>
 
 ---
 
 ### 📊 GitHub Stats
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ArifJawad18&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifJawad18&hide_border=true&layout=compact" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArifJawad18&show_icons=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifJawad18&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 👀 Profile Views
-![Profile views counter](https://komarev.com/ghpvc/?username=ArifJawad18&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArifJawad18&style=flat-square" alt="Profile Views" />
+</div>
