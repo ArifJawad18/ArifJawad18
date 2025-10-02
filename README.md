@@ -57,14 +57,14 @@ I am a front-end developer, studying Computer Science and Engineering. I love bu
 
 ---
 
-### 🏆 Top Repositories
+### 📈 Top Languages (Tech Radar)
 <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ArifJawad18&repo=YOUR-REPO-NAME-1&theme=radical" alt="Repo 1" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ArifJawad18&repo=YOUR-REPO-NAME-2&theme=radical" alt="Repo 2" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=ArifJawad18&repo=YOUR-REPO-NAME-3&theme=radical" alt="Repo 3" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifJawad18&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
+
+
 
 ### 👀 Profile Views
 <div align="center">
