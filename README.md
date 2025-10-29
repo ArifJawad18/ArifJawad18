@@ -52,7 +52,7 @@ I am a front-end developer, studying Computer Science and Engineering. I love bu
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArifJawad18&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArifJawad18&theme=radical" alt="GitHub Streak" />
+  
 </div>
 
 ---
