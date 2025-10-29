@@ -49,14 +49,6 @@ I am a front-end developer, studying Computer Science and Engineering. I love bu
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArifJawad18&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  
-</div>
-
----
-
 ### 📈 Top Languages (Tech Radar)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifJawad18&layout=compact&theme=radical" alt="Top Languages" />
